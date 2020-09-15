@@ -1,4 +1,4 @@
-package br.com.grupofgs.smartguide.extensions
+package br.com.gabrielandrepiva.smarguidelib
 
 import android.util.Patterns.*
 import java.util.regex.Pattern
