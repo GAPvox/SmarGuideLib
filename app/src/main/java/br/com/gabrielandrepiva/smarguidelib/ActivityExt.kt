@@ -1,4 +1,4 @@
-package br.com.grupofgs.smartguide.extensions
+package br.com.gabrielandrepiva.smarguidelib
 
 import android.app.Activity import android.view.View
 fun Activity.hideKeyboard() {
