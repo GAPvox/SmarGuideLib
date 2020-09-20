@@ -1,4 +1,4 @@
-package br.com.grupofgs.smartguide.extensions
+package br.com.gabrielandrepiva.smartguidelib
 
 import br.com.grupofgs.smartguide.utils.firebase.RemoteConfigUtils
 import com.google.gson.Gson
