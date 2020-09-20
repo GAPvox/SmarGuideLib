@@ -1,4 +1,4 @@
-package br.com.grupofgs.smartguide.extensions
+package br.com.gabrielandrepiva.smartguidelib
 
 import android.content.Intent
 import android.net.Uri
