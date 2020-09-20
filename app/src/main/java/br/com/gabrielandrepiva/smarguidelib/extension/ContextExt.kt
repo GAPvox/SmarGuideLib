@@ -1,4 +1,4 @@
-package br.com.gabrielandrepiva.smarguidelib
+package br.com.grupofgs.smartguide.extensions
 
 import android.content.Context
 import android.view.View
