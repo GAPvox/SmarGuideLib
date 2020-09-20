@@ -1,4 +1,5 @@
 package br.com.gabrielandrepiva.smarguidelib
+package br.com.gabrielandrepiva.smarguidelib.models
 
 import com.google.firebase.firestore.Exclude
 
